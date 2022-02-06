@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **DS and Algo**
 
-- 📫 How to reach me **praithatha@horizon.csueastbay.edu**
+- 📫 How to reach me **raithatha@premang.us**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
