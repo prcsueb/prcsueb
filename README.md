@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/premang_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="premang_1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/premang_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="premang_1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ABugWithTheBigDream" target="blank"><img align="center" src="https://cdn.codeforces.com/s/74964/images/codeforces-sponsored-by-ton.png" alt="premang_1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
