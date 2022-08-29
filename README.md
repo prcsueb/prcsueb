@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java Backend, Distributed Systems, React Js, Node Js, Express Js**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Full Stacks Development projects**
 
 - 👨‍💻 All of my projects are available at [premang.us](premang.us)
 
