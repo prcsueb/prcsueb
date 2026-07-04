@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Machine Learning and Full Stacks Development projects**
 
-- 💬 Ask me about **DS and Algo**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/premang_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="premang_1" height="30" width="40" /></a>
