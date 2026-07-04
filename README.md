@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Machine Learning and Full Stacks Development projects**
 
-- 👨‍💻 All of my projects are available at [premang.com](premang.com)
-
 - 💬 Ask me about **DS and Algo**
-
-- 📫 How to reach me **raithatha@premang.us**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
